@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Arundhati, a junior at Ashoka University and self-taught frontend developer, UI Designer, and digital artist. I make clean, meaningful interfaces and ocassionally a portrait or two.
+I'm Arundhati, a junior at Ashoka University and self-taught frontend developer, UI Designer, and digital artist. I make clean, meaningful interfaces and occasionally a portrait or two.
+
+I'm committed to gender equality in STEM education and careers.
 
 Currently, I'm a research intern at [Mphasis Lab](https://github.com/Mphasis-ML-Marketplace). My interests lie in Human-Computer Interaction, Web Development and Machine Learning. 
 
