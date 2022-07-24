@@ -33,7 +33,7 @@ I'm always looking to [collaborate](mailto:arundhati.balasubramaniam_ug23@ashoka
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ### My Stats :bar_chart:
-![Arundhati's GitHub stats](https://github-readme-stats.vercel.app/api?username=arundhati-bala&theme=tokyonight&show_icons=true)
+![Arundhati's GitHub stats](https://github-readme-stats.vercel.app/api?username=arundhatibala&theme=tokyonight&show_icons=true)
 
 ### Find me here :mag:
 
