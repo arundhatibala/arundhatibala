@@ -37,11 +37,11 @@ I'm always looking to [collaborate](mailto:arundhati.balasubramaniam_ug23@ashoka
 
 ### Find me here :mag:
 
-Portfolio: [Website](arundhatibala.github.io)
+Portfolio: [Website](https://arundhatibala.github.io)
 
-Digital Art, Design: [Behance](behance.net/arundhatib), [Instagram](instagram.com/arundhatibalasubramaniam)
+Digital Art, Design: [Behance](https://behance.net/arundhatib), [Instagram](https://instagram.com/arundhatibalasubramaniam)
 
-Programming: [GitHub](github.com/arundhati-bala)
+Programming: [GitHub](https://github.com/arundhati-bala)
 
 Research: [ResearchGate](https://www.researchgate.net/profile/Arundhati-Balasubramaniam)
 
