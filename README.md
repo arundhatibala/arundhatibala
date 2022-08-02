@@ -37,6 +37,8 @@ I'm always looking to [collaborate](mailto:arundhati.balasubramaniam_ug23@ashoka
 
 ### Find me here :mag:
 
+Portfolio: [Website](arundhatibala.github.io)
+
 Digital Art, Design: [Behance](behance.net/arundhatib), [Instagram](instagram.com/arundhatibalasubramaniam)
 
 Programming: [GitHub](github.com/arundhati-bala)
